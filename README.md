@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- My name is Michael
+- Im currently working on -----
+- I have experience in HTML, CSS, Figma
+- Currently learning JavaScript, Python, Nomad Sculpt, Blender
+- Here is a link to my Portfolio
+- You can reach me through email: michaela.diaz174@gmail.com
+
+  
 <!--
 **MichaelD128/MichaelD128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
