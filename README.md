@@ -4,7 +4,7 @@
 - Im currently working on -----
 - I have experience in HTML, CSS, Figma
 - Currently learning JavaScript, Python, Nomad Sculpt, Blender
-- Here is a link to my Portfolio
+- Here is a link to my Portfolio ----
 - You can reach me through email: michaela.diaz174@gmail.com
 
   
